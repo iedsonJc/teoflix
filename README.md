@@ -1,3 +1,3 @@
-#TeoFlix#
+# TeoFlix
 
-##projeto clone da netflix##
+## projeto clone da netflix
